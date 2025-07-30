@@ -1,1 +1,1 @@
-# student-performance-dashboard
+# equality-score-analyse
